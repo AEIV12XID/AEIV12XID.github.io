@@ -1,0 +1,67 @@
+.h1 {
+    text-align: center;
+    font-family: cursive;
+    margin-bottom: 0%;
+    font-size: x-large;
+}
+
+.moto {
+    text-align: center;
+}
+
+.body {
+    background-image: url("../Anniversary/BG.jpg") repeat;
+    background-size: cover;
+    overflow: hidden;
+    min-height: 100%;
+}
+    
+.firstu {
+    height: 2px;
+    background-color: blueviolet;
+    border-color: purple;
+    border-width: 0cap;
+}
+
+.secondu {
+    height: 0px;
+    border-color: blueviolet;
+}
+
+.menu {
+
+}
+
+.main-screen {
+    float: center;
+    width: 700px;
+
+}
+
+.arrow-left {
+    float: left;
+    align-self: self-end;
+    font-size: 180px;
+    font-weight: 500;
+    padding-top: 150px;
+    border: 2px;
+}
+
+.arrow-right {
+    float: right;
+    align-self: self-end;
+    font-size: 180px;
+    font-weight: 500;
+    padding-top: 150px;
+}
+
+.righta {
+    
+}
+
+span {
+    color: blueviolet;
+    border-color: purple;
+    border-width: 2px;
+    opacity: 50%;
+}
